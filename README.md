@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/amaiacss/amaiacss/blob/main/Optimizado-Web.gif)
-### Donde me puedes encontrarme
+![](https://github.com/amaiacss/amaiacss/blob/main/Optimizado-Web.gif) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaiacss&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaiacss)](https://github.com/anuraghazra/github-readme-stats)
+
+### Donde puedes encontrarme
 
 - 📫 [Linkedin](http://www.linkedin.com/in/amaia-casas)
 - ⚡ [instagram](http://www.instagram.com/ami_houses)
 
-### Lenguaje de mis proyectos publicados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaiacss)](https://github.com/anuraghazra/github-readme-stats)
