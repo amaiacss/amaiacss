@@ -1,4 +1,4 @@
-### System.out.println('Hello World! 👋 I'm Amaia'); 
+# System.out.println('Hello World! 👋 I'm Amaia'); 
 
 <!--
 **amaiacss/amaiacss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
