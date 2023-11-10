@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 ### Donde puedes encontrarme
 
 - 📫 [Linkedin](http://www.linkedin.com/in/amaia-casas)
-- ⚡ [instagram](http://www.instagram.com/ami_houses)
-
-
